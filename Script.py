@@ -70,6 +70,9 @@ class script(object):
 these are the extra features of Eva Maria
 
 <b>Commands and Usage:</b>
+• /batch - <code>To create link for multiple post.</code>
+• /link - <code>Reply to any media to get link.</code>
+• /settings - <code>Advanced settings of this bot.</code>
 • /id - <code>get id of a specified user.</code>
 • /info  - <code>get information about a user.</code>
 • /imdb  - <code>get the film information from IMDb source.</code>
